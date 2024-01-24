@@ -21,4 +21,4 @@ __link to tutorial__ [https://www.youtube.com/watch?v=syrGPPekLHQ](https://www.y
 
 ---
 
-![picture](Screenshot_5.png)
+![picture](Screenshot_4.png)
